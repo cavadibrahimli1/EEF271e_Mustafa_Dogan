@@ -1,3 +1,10 @@
+
+
+![Logo](http://work.thaslwanter.at/Stats/html/_images/PDF.png)
+
+
+
+
 # Introduction to Probability and Statistics with R
 
 Probability and statistics are essential tools for understanding and analyzing data. They allow us to make informed decisions based on evidence and to draw conclusions about the relationships between different variables. In this tutorial, we will introduce some basic concepts in probability and statistics and demonstrate how to apply these concepts using the R programming language.
