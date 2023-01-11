@@ -64,3 +64,7 @@ Once a package is installed, you can load it into your R session using the libra
 That's it! You are now ready to start exploring the world of probability and statistics with R. Happy coding!
 
 This Github repo is prepared for the Probability and statistics course given by Mustafa Dogan.
+
+## Authors
+- [@mustafadogan](https://web.itu.edu.tr/mustafadogan/)
+- [@cavadibrahimli1](https://www.github.com/cavadibrahimli1)
